@@ -18,12 +18,12 @@
         "nunomaduro/collision": "^6.1",
         "phpunit/phpunit": "^9.5.10",
         "spatie/laravel-ignition": "^1.0",
-        "auncly/sqlite-visualizer": "*"
+        "auncly/binoculars": "*"
     },
     "repositories": [
         {
             "type": "path",
-            "url": "../packages/auncly/sqlite-visualizer"
+            "url": "../packages/auncly/binoculars"
         }
     ],
     "autoload": {
